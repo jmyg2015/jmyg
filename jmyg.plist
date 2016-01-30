@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://oa.gddlkj.com:18080/JmygWeb/download/Jmyg_1.0.ipa</string>
+                   <string>http://oa.gddlkj.com:18080/JmygWeb/download/Jmyg_1.01.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -26,13 +26,13 @@
                <key>bundle-identifier</key>
                <string>com.gddlkj.projects.299jmyg</string>
                <key>bundle-version</key>
-               <string>1.0</string>
+               <string>1.01</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>邑志通</string>
+               <string>邑智汇</string>
                <key>title</key>
-               <string>邑志通1.0</string>
+               <string>邑智汇1.01</string>
            </dict>
        </dict>
    </array>
