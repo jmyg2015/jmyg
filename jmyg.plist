@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://oa.gddlkj.com:18080/JmygWeb/download/Jmyg_1.02.ipa</string>
+                   <string>http://oa.gddlkj.com:18080/JmygWeb/download/Jmyg_1.03.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -32,7 +32,7 @@
                <key>subtitle</key>
                <string>邑智汇</string>
                <key>title</key>
-               <string>邑智汇1.02</string>
+               <string>邑智汇1.03</string>
            </dict>
        </dict>
    </array>
