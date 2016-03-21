@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://113.107.136.252:7001/download/Jmyg_1.06.ipa</string>
+                   <string>http://113.107.136.252:7001/download/Jmyg_1.07.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,20 +19,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://113.107.136.252:7001/download/jmyg_logo_48.png</string>
+                   <string>http://113.107.136.252/download/jmyg_logo_48.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>com.gddlkj.projects.299jmyg</string>
                <key>bundle-version</key>
-               <string>1.06</string>
+               <string>1.07</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
                <string>江门义工</string>
                <key>title</key>
-               <string>江门义工1.06</string>
+               <string>江门义工1.07</string>
            </dict>
        </dict>
    </array>
